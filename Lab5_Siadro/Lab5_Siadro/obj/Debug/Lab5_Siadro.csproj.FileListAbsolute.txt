@@ -1,0 +1,7 @@
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\bin\Debug\Lab5_Siadro.exe.config
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\bin\Debug\Lab5_Siadro.exe
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\bin\Debug\Lab5_Siadro.pdb
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\obj\Debug\Lab5_Siadro.csproj.AssemblyReference.cache
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\obj\Debug\Lab5_Siadro.csproj.CoreCompileInputs.cache
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\obj\Debug\Lab5_Siadro.exe
+C:\Users\sjdro\source\repos\DataGridView\Lab5_Siadro\Lab5_Siadro\obj\Debug\Lab5_Siadro.pdb
